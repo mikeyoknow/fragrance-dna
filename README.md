@@ -52,7 +52,7 @@ This project uses concepts from social network analysis and graph mining, includ
 
 ## Course
 
-**EECS 4414: Social Networks**  
+**EECS 4414: information Networks**  
 York University
 
 ## License
