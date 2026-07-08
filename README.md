@@ -30,3 +30,31 @@ fragrance-dna/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
+
+## Methods
+
+This project uses concepts from social network analysis and graph mining, including:
+
+- Bipartite graph modeling
+- Perfume similarity graphs
+- Personalized PageRank
+- Centrality analysis
+- Louvain community detection
+- Graph-based recommendation
+
+## Team
+
+- Hannah Abedin
+- Erfan Razmand
+- Matin Pakfetrat
+- Anika Fernando
+
+## Course
+
+**EECS 4414: Social Networks**  
+York University
+
+## License
+
+This project is licensed under the MIT License.
